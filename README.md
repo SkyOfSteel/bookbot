@@ -10,7 +10,7 @@ The character count is a sorted list of dictionaries in the format of `<characte
 
 **`python3 main.py <file path>`**
 
-The script uses sys.argv[1] as the input for a file path. An error message `Usage: python3 main.py <\path_to_book>` is printed to the console on failure.
+The script uses sys.argv[1] as the input for a file path. An error message `Usage: python3 main.py <path_to_book>` is printed to the console on failure.
 
 # Function Flow
 
